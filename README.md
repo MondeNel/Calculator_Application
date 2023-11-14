@@ -24,8 +24,10 @@ Equal (=) Button: Calculate the result of the expression.
 Clear (C) Button: Reset the calculator.
 
 
-Preview
-Calculator Preview
+## Preview
+
+![Calculator Preview](https://github.com/MondeNel/Calculator_Application/raw/7ee3fbbf76f6cb5ecd66b85a347ac536201c41b3/calculator.png)
+
 
 Technologies Used
 🌐 HTML
