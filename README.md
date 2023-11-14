@@ -11,7 +11,7 @@ Features
 How to Use
 Clone the repository:
 
-git clone https://github.com/MondeNel/calculator.git
+git clone (https://github.com/MondeNel/Calculator_Application)
 Open the index.html file in your web browser.
 
 Start calculating!
